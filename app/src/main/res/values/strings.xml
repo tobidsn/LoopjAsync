@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoopjAsync</string>
+    <string name="action_settings">Settings</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="help">Email : bejo@bejo.com, Password : 123456</string>
+    <string name="title_activity_karyawan">Daftar Karyawan</string>
+</resources>
